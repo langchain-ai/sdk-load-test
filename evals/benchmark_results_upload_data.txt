@@ -1,0 +1,9 @@
+Langsmith Benchmark Results
+===========================
+Time Breakdown:
+    Total time        2.970s
+
+Performance:
+    Total Examples    2
+    Total Size      23.9 kB
+    Avg time/example    1.485s

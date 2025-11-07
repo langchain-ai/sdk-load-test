@@ -1,0 +1,13 @@
+{
+    "_instructions": "This configuration file maps CSV datasets to LangSmith dataset structure. For each dataset: 'inputs' are CSV column names that will be set as inputs in the LangSmith dataset, and 'outputs' are CSV column names that will be recorded as outputs (expected outputs) in the LangSmith dataset.",
+    "data_files": {
+        "10k-long-emails": {
+            "inputs": ["email"],
+            "outputs": []
+        },
+        "10k-long-emails-example": {
+            "inputs": ["email"],
+            "outputs": []
+        }
+    }
+}

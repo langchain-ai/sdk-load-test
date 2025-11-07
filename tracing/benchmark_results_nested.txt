@@ -1,0 +1,9 @@
+Langsmith Benchmark Results
+===========================
+Time Breakdown:
+    Total time        1.660s
+
+Performance:
+    Total Traces    45
+    Total Size      145.6 MB
+    Avg time/trace    0.037s
